@@ -1,5 +1,7 @@
 My project is slightly different to what they wanted us to do. But it should cover all the requirements.
 
+NOTE: I used pipenv for the python virtual environment
+
 Here are some of the APIs you can go to.
 
 - http://127.0.0.1:8000/menu
@@ -11,4 +13,4 @@ Here are some of the APIs you can go to.
 
 Please checkout the urls.py file to better understand urls. Basically, I kept mostly everything at the root and I was not verbose.
 
-Also, everything I found unnesse
+Also, everything I found unnecessary in the exercises, I didn't do
